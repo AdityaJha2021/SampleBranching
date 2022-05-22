@@ -6,8 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Dev Branch");
-            Console.WriteLine("Added in dev");
+            Console.WriteLine("This is master Branch");
             Console.ReadKey();
         }
     }
