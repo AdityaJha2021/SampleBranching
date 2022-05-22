@@ -6,6 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Added recently");
             Console.WriteLine("This is Dev Branch!");
             Console.WriteLine("Added in dev");
             Console.ReadKey();
